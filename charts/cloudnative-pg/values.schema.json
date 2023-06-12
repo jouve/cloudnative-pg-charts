@@ -140,6 +140,9 @@
         "rbac": {
             "type": "object",
             "properties": {
+                "aggregate": {
+                    "type": "boolean"
+                },
                 "create": {
                     "type": "boolean"
                 }
